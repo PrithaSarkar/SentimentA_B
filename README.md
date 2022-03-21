@@ -1,6 +1,7 @@
 # SentimentA_B
 Web scraping and sentiment analysis project.
 
+
 The project was done in confidence for a company and thus the initial data file has not been made available. However, one could explore the code files to include their version of data.
 The project basically has 4 main elements:
   (i) Input.xlsx (has not been made available) :
